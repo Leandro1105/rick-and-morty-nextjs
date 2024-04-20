@@ -1,5 +1,7 @@
 ### Projeto de API com react
 
+- **Link do projeto:** : https://rick-and-morty-nextjs-ruddy.vercel.app/
+
  ![Página Inicial](/public/inicio.png)
 
  ![Rota dinâmica](/public/dinamica.png)
@@ -16,7 +18,7 @@
 
  1. Clone o repositório para sua máquina local. 
 
- ```git clone + link do projeto no GitHub```
+ ```git clone https://github.com/Leandro1105/rick-and-morty-nextjs.git```
 
  2. Instalar as dependências do projeto com:
 
